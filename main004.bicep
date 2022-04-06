@@ -17,7 +17,7 @@ param location string = 'eastus'
 param storageAccountType string = 'Standard_LRS'
 
 @description('The name of the Storage Account')
-param storageAccountName string = 'mystoragetestprod'
+param storageAccountName string = 'mystoragetestprod01'
 
 
 
